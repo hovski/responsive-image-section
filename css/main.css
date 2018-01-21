@@ -56,6 +56,10 @@ section p {
   text-align: center;
 }
 
+.btn:hover {
+  background-color: #000;
+}
+
 .img-flex {
   display: block;
   width: 100%;
