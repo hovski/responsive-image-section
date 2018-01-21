@@ -82,6 +82,10 @@ section p {
     line-height: 1.4;
   }
 
+  section h1 {
+    padding: 1rem 0 1.5rem;
+  }
+
   .section-body {
     max-width: 49%;
     display: inline-block;
@@ -113,6 +117,11 @@ section p {
 
   html {
     font-size: 130%;
+  }
+
+  .wrapper {
+    margin: auto;
+    max-width: 50em;
   }
 
 }
